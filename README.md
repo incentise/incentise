@@ -1,6 +1,9 @@
-incentise.com
+
 
 Incentise turns incentives into public acknowledgment & social proof
+
+
+https://incentise.com
 
 <!--
 **incentise/incentise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
