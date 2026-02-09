@@ -2,7 +2,7 @@
 
 ## Concept
 
-This project is built around **incentives turned into social proof**, where rewards are not just claimed—but publicly acknowledged.
+This project is built around **incentives turned into social proof**, where rewards are not just claimed but publicly acknowledged.
 
 
 
